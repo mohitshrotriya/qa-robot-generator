@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  background: #e8edf3;
+  color: #0f172a;
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: #e8edf3; }
+::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 3px; }
+
+input, textarea, select, button { font-family: inherit; }
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #2563eb !important;
+  box-shadow: 0 0 0 3px rgba(37,99,235,0.1) !important;
+}
+
+/* Cards shadow */
+.card { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }

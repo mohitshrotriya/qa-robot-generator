@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="7" fill="#1e3a5f"/>
+  <text x="16" y="13" text-anchor="middle" fill="white" font-size="7" font-weight="900" font-family="system-ui,sans-serif">QAMS</text>
+  <text x="16" y="22" text-anchor="middle" fill="#93c5fd" font-size="5" font-weight="600" font-family="system-ui,sans-serif">QA ROBOT</text>
+  <line x1="5" y1="25" x2="27" y2="25" stroke="#3b82f6" stroke-width="0.8"/>
+</svg>
